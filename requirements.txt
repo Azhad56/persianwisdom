@@ -1,0 +1,4 @@
+flask
+templating
+gunicorn
+scikit-learn

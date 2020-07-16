@@ -90,6 +90,7 @@ body
 	border-left:solid 2px brown;
 	border-right:solid 2px brown;
 	color:white;
+	margin: 0px auto;
 }
 #sidebar
 {
@@ -249,18 +250,19 @@ padding:15px;
 
 
 
-* {box-sizing:border-box}
-
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
-  position: relative;
-  margin: auto;
+	position: relative;
+  margin: 0px auto;
 }
 
 /* Hide the images by default */
-.mySlides {
+.mySlider {
   display: none;
+}
+.slidetoshow{
+	display: block;
 }
 
 /* Next & previous buttons */
