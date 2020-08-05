@@ -7,6 +7,6 @@ def home():
     return render_template("index.html")
 @app.route("/author",methods = ['Get','Post'])
 def author():
-    return render_template("author_guidlines.html")
+    return render_template("author_guidelines.html")
 if __name__ =='__main__':
     app.run(debug=True)
