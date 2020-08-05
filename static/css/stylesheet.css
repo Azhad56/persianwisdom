@@ -95,7 +95,7 @@ body
 #sidebar
 {
 	width:240px;
-	background-color:white;
+	background:white;
 	border-left:solid 2px brown;
 	border-bottom:solid 2px brown;
 	float:left;
@@ -106,7 +106,7 @@ body
 {
 	width:764px;
 	height: 450px;
-	background-color:gray;
+	background-color:white;
 	border-right:solid 2px brown;
 	border-left:solid 2px brown;
 	border-bottom:solid 2px brown;

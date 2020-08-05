@@ -5,5 +5,8 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     return render_template("index.html")
+@app.route("/author")
+def author():
+    return render_template("author_guidlines.html")
 if __name__ =='__main__':
     app.run(debug=True)
