@@ -9,7 +9,7 @@ def home():
 def author():
     return render_template("author_guidelines.html")
 @app.route("/contact/")
-def author():
+def contact():
     return render_template("contact.html")
 if __name__ =='__main__':
     app.run(debug=True)
