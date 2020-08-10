@@ -83,7 +83,7 @@ body
 #slider
 {
 	width:1006px;
-	height:100px;
+	height:200px;
 	background-color:white;
 	border-top:solid 2px brown;
 	border-bottom:solid 2px brown;
@@ -116,7 +116,7 @@ body
 	text-align:center;
 	color:#cfe5d0;
 	width:1006px;
-	height:200px;
+	height:250px;
 	background-color:brown;
 	border-bottom:solid 2px brown;
 	border-left:solid 2px brown;
