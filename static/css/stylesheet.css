@@ -249,8 +249,12 @@ padding:15px;
   #logo {
     width: : 100%;
   }
-	#contact_section{
+	#phone_number{
 		width:100%;
-		float: bottom;
+		float: top;
+	}
+	#mail{
+		width:100%;
+		float: top;
 	}
 }
