@@ -246,19 +246,5 @@ p
 padding:15px;
 }
 @media only screen and (max-width: 600px) {
-	#logo {
-    width: : 400px;
-		position: relative;
-		float: bottom;
-  }
-	#phone_number {
-    width: : 400px;
-		position: relative;
-		float: top;
-  }
-	#mail {
-    width: : 400px;
-		position: relative;
-		float: top;
-  }
+	
 }
