@@ -248,16 +248,9 @@ padding:15px;
 @media only screen and (max-width: 600px) {
   #logo {
     width: : 100%;
+		float: bottom;
   }
 	#contact_section{
-		float: top;
-	}
-	#phone_number{
-		width:100%;
-		float: top;
-	}
-	#mail{
-		width:100%;
 		float: top;
 	}
 }
