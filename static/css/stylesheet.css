@@ -249,4 +249,8 @@ padding:15px;
   #logo {
     width: : 100%;
   }
+	#contact_section{
+		width:100%;
+		float: bottom;
+	}
 }
