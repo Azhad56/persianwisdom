@@ -246,7 +246,7 @@ p
 padding:15px;
 }
 @media only screen and (max-width: 600px) {
-  p {
-    color: blue;
+  #logo {
+    width: : 100%;
   }
 }
