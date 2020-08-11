@@ -245,6 +245,239 @@ p
 {
 padding:15px;
 }
+
 @media only screen and (max-width: 600px) {
-	
+	body
+	{
+		margin:0px;
+	}
+	#container
+	{
+		width:410px;
+		margin:0px auto;
+	}
+	#header
+	{
+		width:406px;
+		height:150px;
+		background-color:white;
+		border:solid 2px brown;
+		color:white;
+		margin:0px auto;
+	}
+	#logo
+	{
+		width:406px;
+		background-color:white;
+		float:bottom;
+		height: 150px;
+	}
+	#contact_section
+	{
+		width:406px;
+		background-color:white;
+		float:left;
+		min-height:150px;
+		margin:0px auto;
+	}
+	#phone_number
+	{
+		width:406px;
+		height: 150px;
+		background-color:white;
+		font-size: 22px;
+		float:top;
+		position: relative;
+		left: 2%;
+	}
+	#mail
+	{
+		width:406px;
+		background-color:white;
+		float:top;
+		height: 150px;
+	}
+	#nav
+	{
+		width:406px;
+		height:30px;
+		background-color:brown;
+		border:solid 2px brown;
+		color:white;
+	}
+	#nav2
+	{
+		width:406px;
+		height:30px;
+		background-color:rgb(128,128,0);
+		border-top:solid 2px brown;
+		border-left:solid 2px brown;
+		border-right:solid 2px brown;
+		color:white;
+	}
+	#slider
+	{
+		width:406px;
+		height:200px;
+		background-color:white;
+		border-top:solid 2px brown;
+		border-bottom:solid 2px brown;
+		border-left:solid 2px brown;
+		border-right:solid 2px brown;
+		margin: 0px auto;
+	}
+	#sidebar
+	{
+		width:240px;
+		background:white;
+		border-left:solid 2px brown;
+		border-bottom:solid 2px brown;
+		float:left;
+		display:block;
+		height: 450px;
+	}
+	#main
+	{
+		width:764px;
+		height: 450px;
+		border-right:solid 2px brown;
+		border-left:solid 2px brown;
+		border-bottom:solid 2px brown;
+		float:left;
+		overflow:auto;
+	}
+	#footer
+	{
+		text-align:center;
+		color:#cfe5d0;
+		width:1006px;
+		height:250px;
+		background-color:brown;
+		border-bottom:solid 2px brown;
+		border-left:solid 2px brown;
+		border-right:solid 2px brown;
+		margin:0px auto;
+		overflow: auto;
+	}
+	#Persianwisdom
+	{
+		width:253px;
+		height:230px;
+		background-color:brown;
+		float: left;
+	}
+	#Explore
+	{
+		width:251px;
+		height:230px;
+		background-color:brown;
+		float: left;
+	}
+	#Visit
+	{
+		width:251px;
+		height:230px;
+		background-color:brown;
+		float: left;
+	}
+	#Follow
+	{
+		width:251px;
+		height:230px;
+		background-color:brown;
+		float: left;
+	}
+	#copyright
+	{
+		width:1006px;
+		height:18px;
+		background-color:brown;
+		float: left;
+	}
+	.myslides
+	{
+		width:1006px;
+		height:400px;
+	}
+	#nav ul
+	{
+	text-align:right;
+	background-color:brown;
+	margin:0px;
+	}
+	.footer_menu ul
+	{
+	text-align:center;
+	background-color:brown;
+	margin:0px;
+	}
+	#nav ul li
+	{
+	list-style:none;
+	padding:10px;
+	display:inline;
+	font-size:13px;
+	font-weight:bold;
+	line-height:10px;
+	}
+	.footer_menu ul li
+	{
+	list-style:none;
+	padding:10px;
+	display: block;
+	font-size:13px;
+	font-weight:bold;
+	line-height:10px;
+	}
+	.menu ul li a
+	{
+	text-decoration:none;
+	color:#FFF;
+	background-color:brown;
+	}
+
+	.menu ul li a:hover
+	{
+	background-color:green;
+	color:#000;
+	}
+	#nav2 ul
+	{
+	text-align:left;
+	background-color:rgb(128,128,0);
+	margin:2px;
+	}
+	#nav2 ul li
+	{
+	list-style:none;
+	padding:10px;
+	display:inline;
+	font-size:13px;
+	font-weight:bold;
+	line-height:10px;
+	}
+	#nav2 ul li a
+	{
+	text-decoration:none;
+	color:#FFF;
+	background-color:rgb(128,128,0);
+	}
+
+	#nav2 ul li a:hover
+	{
+	background-color:rgb(128,128,0);
+	color:#000;
+	}
+	#nav ul li.login
+	{
+	padding:15px;
+	display:inline;
+	font-size:15px;
+	font-weight:bold;
+	line-height:10px;
+	}
+	p
+	{
+	padding:15px;
+	}
 }
