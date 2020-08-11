@@ -277,30 +277,32 @@ padding:15px;
 		width:406px;
 		background-color:white;
 		float:top;
-		min-height:100px;
+		min-height:75px;
 		margin:0px auto;
 		border:solid 2px brown;
 	}
 	#phone_number
 	{
 		width:203px;
-		height: 100px;
+		height: 75px;
 		background-color:white;
 		font-size: 16px;
+		padding: 1px;
 		position: relative;
 		left: 1%;
 		top: 1%;
-		float:left;
+		float:top;
 	}
 	#mail
 	{
 		width:203px;
 		background-color:white;
 		font-size: 16px;
+		padding: 1px;
 		position: relative;
 		left: 1%;
 		top: 1%;
-		float:left;
-		height: 100px;
+		float:top;
+		height: 75px;
 	}
 }
