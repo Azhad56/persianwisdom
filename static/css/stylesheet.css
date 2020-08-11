@@ -300,10 +300,10 @@ padding:15px;
 		background-color:white;
 		font-size: 16px;
 		padding: 1px;
+		float:inherit;
 		position: relative;
 		left: 1%;
 		top: 1%;
-		float:bottom;
 		height: 75px;
 	}
 }
