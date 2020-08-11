@@ -283,10 +283,11 @@ padding:15px;
 	}
 	#phone_number
 	{
-		width:203px;
+		width:199px;
 		height: 75px;
 		background-color:white;
 		font-size: 16px;
+		border:solid 2px green;
 		padding: 1px;
 		position: relative;
 		left: 1%;
