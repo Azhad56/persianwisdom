@@ -276,7 +276,7 @@ padding:15px;
 	{
 		width:406px;
 		background-color:white;
-		float:top;
+		float:bottom;
 		min-height:150px;
 		margin:0px auto;
 	}
@@ -285,15 +285,14 @@ padding:15px;
 		width:203px;
 		height: 150px;
 		background-color:white;
-		font-size: 22px;
+		font-size: 18px;
 		float:left;
-		position: relative;
-		left: 2%;
 	}
 	#mail
 	{
 		width:203px;
 		background-color:white;
+		font-size: 18px;
 		float:left;
 		height: 150px;
 	}
