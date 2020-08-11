@@ -303,7 +303,7 @@ padding:15px;
 		position: relative;
 		left: 1%;
 		top: 1%;
-		float:top;
+		float:bottom;
 		height: 75px;
 	}
 }
