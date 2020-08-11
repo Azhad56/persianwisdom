@@ -269,7 +269,7 @@ padding:15px;
 	{
 		width:406px;
 		background-color:white;
-		float:bottom;
+		float:inherit;
 		height: 150px;
 	}
 	#contact_section
