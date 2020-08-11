@@ -288,8 +288,8 @@ padding:15px;
 		font-size: 18px;
 		float:left;
 		position: relative;
-		left: 0
-		top: 0
+		left: 1%;
+		top: 1%;
 	}
 	#mail
 	{
@@ -299,8 +299,8 @@ padding:15px;
 		float:left;
 		height: 150px;
 		position: relative;
-		left: 0
-		top: 0
+		left: 1%;
+		top: 1%;
 	}
 	#nav
 	{
