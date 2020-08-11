@@ -269,14 +269,14 @@ padding:15px;
 	{
 		width:406px;
 		background-color:white;
-		float:bottom;
+		float:none;
 		height: 150px;
 	}
 	#contact_section
 	{
 		width:406px;
 		background-color:white;
-		float:inherit;
+		float:top;
 		min-height:75px;
 		margin:0px auto;
 		border:solid 2px brown;
