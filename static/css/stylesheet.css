@@ -276,7 +276,7 @@ padding:15px;
 	{
 		width:406px;
 		background-color:white;
-		float:bottom;
+		float:top;
 		min-height:150px;
 		margin:0px auto;
 	}
@@ -287,6 +287,9 @@ padding:15px;
 		background-color:white;
 		font-size: 18px;
 		float:left;
+		position: relative;
+		left: 0
+		top: 0
 	}
 	#mail
 	{
@@ -295,6 +298,9 @@ padding:15px;
 		font-size: 18px;
 		float:left;
 		height: 150px;
+		position: relative;
+		left: 0
+		top: 0
 	}
 	#nav
 	{
