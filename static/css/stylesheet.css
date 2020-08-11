@@ -279,7 +279,7 @@ padding:15px;
 		float:top;
 		min-height:100px;
 		margin:0px auto;
-		border: 1px solid;
+		border:solid 2px brown;
 	}
 	#phone_number
 	{
@@ -302,34 +302,5 @@ padding:15px;
 		top: 1%;
 		float:left;
 		height: 100px;
-	}
-	#nav
-	{
-		width:406px;
-		height:30px;
-		background-color:brown;
-		border:solid 2px brown;
-		color:white;
-	}
-	#nav2
-	{
-		width:406px;
-		height:30px;
-		background-color:rgb(128,128,0);
-		border-top:solid 2px brown;
-		border-left:solid 2px brown;
-		border-right:solid 2px brown;
-		color:white;
-	}
-	#slider
-	{
-		width:406px;
-		height:200px;
-		background-color:white;
-		border-top:solid 2px brown;
-		border-bottom:solid 2px brown;
-		border-left:solid 2px brown;
-		border-right:solid 2px brown;
-		margin: 0px auto;
 	}
 }
