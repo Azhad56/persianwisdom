@@ -282,19 +282,19 @@ padding:15px;
 	}
 	#phone_number
 	{
-		width:406px;
+		width:203px;
 		height: 150px;
 		background-color:white;
 		font-size: 22px;
-		float:top;
+		float:left;
 		position: relative;
 		left: 2%;
 	}
 	#mail
 	{
-		width:406px;
+		width:203px;
 		background-color:white;
-		float:top;
+		float:left;
 		height: 150px;
 	}
 	#nav
